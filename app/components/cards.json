@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Smoker",
+        "ability": "Leader (Red/Green)",
+        "images": "/images/OP10-001.png",
+        "attribute": "[Opponent's Turn] All of your (Navy) or (Punk Hazard) type Characters gain +1000 power. [Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active."
+    },
+    {
+        "name": "Caesar Clown",
+        "ability": "Leader (Red/Blue)",
+        "images": "/images/OP10-002.png",
+        "attribute": "[DON!! x2] [When Attacking] You may return 1 of your {Punk Hazard} type Characters with a cost of 2 or more to the owner's hand: K.O. up to 1 of your opponent's Characters with 4000 power or less."
+    },
+    {
+        "name": "Sugar",
+        "ability": "Leader (Red/Purple)",
+        "images": "/images/OP10-003.png",
+        "attribute": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active. [Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active."
+    },
+    {
+        "name": "Trafalgar Law",
+        "ability": "Leader (Green/Yellow)",
+        "images": "/images/OP10-022.png",
+        "attribute": "[DON!! x1] [Activate: Main] [Once Per Turn] If the total cost of your Characters is 5 or more, you may return 1 of your Characters to the owner's hand: Reveal 1 card from the top of your Life cards. If that card is a {Supernovas} type Character card with a cost of 5 or less, you may play that card."
+    },
+    {
+        "name": "Usopp",
+        "ability": "Leader (Blue/Black)",
+        "images": "/images/OP10-042.png",
+        "attribute": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost. [Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card."
+    },
+    {
+        "name": "Eustass 'Captain' Kid",
+        "ability": "Leader (Yellow)",
+        "images": "/images/OP10-099.png",
+        "attribute": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn."
+    },
+    {
+        "name": "Vergo",
+        "ability": "Character (Red)",
+        "images": "/images/OP10-004.png",
+        "attribute": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Punk Hazard} type card other than [Vergo] and add it to your hand. Then, place the rest at the bottom of your deck in any order."
+    },
+    {
+        "name": "Sanji",
+        "ability": "Character (Red)",
+        "images": "/images/OP10-005.png",
+        "attribute": "[Your Turn] This Character gains +3000 power. [On K.O.] Draw 1 card."
+    },
+    {
+        "name": "Tony Tony. Chopper",
+        "ability": "Character (Red)",
+        "images": "/images/OP10-011.png",
+        "attribute": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +2000 power."
+    },
+    {
+        "name": "Monet",
+        "ability": "Character (Red)",
+        "images": "/images/OP10-016.png",
+        "attribute": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters. Then, give up to 1 of your opponent's Characters −1000 power during this turn."
+    },
+    {
+        "name": "Smoker",
+        "ability": "Character (Green)",
+        "images": "/images/OP10-030.png",
+        "attribute": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn."
+    },
+    {
+        "name": "Tashigi",
+        "ability": "Character (Green)",
+        "images": "/images/OP10-032.png",
+        "attribute": "If you have a green Character other than [Tashigi] that would be removed from the field by your opponent's effect, you may rest this Character instead."
+    },
+    {
+        "name": "Kuzan",
+        "ability": "Character (Black)",
+        "images": "/images/OP10-082.png",
+        "attribute": "This Character cannot be removed from the field by your opponent's effects. [Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash."
+    },
+    {
+        "name": "Roronoa Zoro",
+        "ability": "Character (Black)",
+        "images": "/images/OP10-095.png",
+        "attribute": "[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, trash 2 cards from the top of your deck."
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "ability": "Character (Purple)",
+        "images": "/images/OP10-071.png",
+        "attribute": "[On Play] DON!! −1: Play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active."
+    },
+    {
+        "name": "Donquixote Rosinante",
+        "ability": "Character (Purple)",
+        "images": "/images/OP10-072.png",
+        "attribute": "[On Play] You may trash 1 Event from your hand: Draw 2 cards. [End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active."
+    },
+    {
+        "name": "Donquixote Rosinante",
+        "ability": "Character (Green)",
+        "images": "/images/OP09-032.png",
+        "attribute": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] Set this Character as active."
+    },
+    {
+        "name": "Kikunojo",
+        "ability": "Character (Yellow)",
+        "images": "/images/OP06-104.png",
+        "attribute": "[On K.O.] If your opponent has 3 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Trigger: If your opponent has 3 or less Life cards, play this card."
+    }
+]

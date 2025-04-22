@@ -15,7 +15,7 @@ export default function Suggestions() {
           <ul className="list-disc list-inside">
             <li>Leader cards with versatile abilities.</li>
             <li>Character cards for both attack and defense.</li>
-            <li>Event cards to counter your opponent's strategies.</li>
+            <li>Event cards to counter your opponent&apos;s strategies.</li>
             <li>Stage cards to provide ongoing support.</li>
           </ul>
         </section>
@@ -63,7 +63,7 @@ export default function Suggestions() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Budget Deck</h2>
           <p className="mb-2">
-            If you're building a deck on a budget, focus on:
+            If you&apos;re building a deck on a budget, focus on:
           </p>
           <ul className="list-disc list-inside">
             <li>Common and uncommon cards with strong abilities.</li>

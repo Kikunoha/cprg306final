@@ -17,7 +17,7 @@ export default function Rules() {
             2. Players take turns drawing cards and playing actions.
           </p>
           <p className="mb-2">
-            3. The goal is to reduce your opponent's life points to zero.
+            3. The goal is to reduce your opponent&apos;s life points to zero.
           </p>
         </section>
 
@@ -56,7 +56,7 @@ export default function Rules() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">Winning Conditions</h2>
           <p className="mb-2">
-            1. Reduce your opponent's life points to zero.
+            1. Reduce your opponent&apos;s life points to zero.
           </p>
           <p className="mb-2">
             2. Force your opponent to run out of cards in their deck.

@@ -1,6 +1,6 @@
 "use client";
-import Header from '../components/header';
-import Rules from './rules';
+import Header from "../components/header";
+import Rules from "./rules";
 
 export default function RulesPage() {
   return (

@@ -1,6 +1,6 @@
 "use client";
-import Header from '../components/header';
-import Suggestions from './suggestions';
+import Header from "../components/header";
+import Suggestions from "./suggestions";
 
 export default function SuggestionsPage() {
   return (
